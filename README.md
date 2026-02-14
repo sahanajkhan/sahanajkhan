@@ -1,69 +1,84 @@
 <h1 align="center">Hi 👋, I'm Shahanaj Khan</h1>
-<h3 align="center">
-  Full Stack Developer | Backend-Focused | DSA Enthusiast
-</h3>
-
+<h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  Passionate about building scalable web applications,  
-  writing clean backend logic, and solving real-world problems using DSA.
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Specialist;DSA+Enthusiast;AI+Explorer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sahanajkhan&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering  
-- 💻 Strong focus on **Backend Development**
-- 🧠 Love solving **Data Structures & Algorithms**
-- 🌱 Currently improving system design & performance optimization
-- ⚡ Believe in **learning by building**
+- 🔭 Currently building AI + Full Stack Projects  
+- 🌱 Learning DSA, System Design & Scalable Backend  
+- 💡 Passionate about solving real-world problems  
+- 💬 Ask me about React, Node.js, Express, MongoDB, C++  
+- 📫 Reach me at: khanshahanaj621@gmail.com
 
 ---
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
-
----
-
-## 📌 What I Do
-
-- 🔹 Build REST APIs using **Node.js & Express**
-- 🔹 Design efficient **MongoDB schemas**
-- 🔹 Implement authentication & authorization
-- 🔹 Practice DSA for problem-solving & interviews
-- 🔹 Work on real-world full-stack projects
-
----
-
-
-
-
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahanaj-khan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shahanaj.23cse454@rtu.ac.in">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="32"/>
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/shahanaj-khan/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/YOUR-INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://github.com/sahanajkhan">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
 
-<p align="center">
-  💻 Learn • Build • Improve  
+## 🧠 Coding Profiles
+
+<p>
+<a href="https://www.codechef.com/users/eager_sun_10">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sk051223/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,html,css,git,github,tailwind,ts,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahanajkhan&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanajkhan&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanajkhan&theme=react-dark" />
+</p>
+
+---
+
+⭐️ From Shahanaj Khan | Keep Coding 🚀
+
 
