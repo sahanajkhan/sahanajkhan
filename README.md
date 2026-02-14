@@ -1,84 +1,62 @@
 <h1 align="center">Hi 👋, I'm Shahanaj Khan</h1>
-<h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Specialist;DSA+Enthusiast;AI+Explorer" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahanajkhan&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building AI + Full Stack Projects  
-- 🌱 Learning DSA, System Design & Scalable Backend  
-- 💡 Passionate about solving real-world problems  
-- 💬 Ask me about React, Node.js, Express, MongoDB, C++  
-- 📫 Reach me at: khanshahanaj621@gmail.com
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">3rd Year CSE Student | Full Stack Developer | DSA & AI Enthusiast 🚀</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shahanaj-khan/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://komarev.com/ghpvc/?username=sahanajkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sahanajkhan" />
+</p>
+
+<img align="right" height="300" width="400" alt="GIF" src="codingg.gif">
+
+- 🌱 I’m currently learning **Problem Solving & DSA in C++.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 👨‍💻 Building AI + Full Stack Real-World Projects
+- 💬 Ask me about **React, Node.js, Express & C++ DSA**
+- 📫 How to reach me: **khanshahanaj621@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ehA9aZxfzeyfpMWXZaetGwS5FCmRRPp9/view?usp=sharing)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shahanaj-khan/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
+
+<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://github.com/sahanajkhan">
-<img src="https://skillicons.dev/icons?i=github" />
+
+
+<a href="https://www.codechef.com/users/eager_sun_10" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
 </a>
+
+
+<a href="https://leetcode.com/u/sk051223/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
 </p>
 
 ---
 
-## 🧠 Coding Profiles
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,python,java,html,css,git,github,tailwind,ts,docker,postgresql,figma" />
+</p>
+
+---
 
 <p>
-<a href="https://www.codechef.com/users/eager_sun_10">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sk051223/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanajkhan&show_icons=true&locale=en&layout=compact" />
 </p>
-
----
-
-## 🛠 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,html,css,git,github,tailwind,ts,figma" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahanajkhan&show_icons=true&locale=en&theme=radical" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahanajkhan&show_icons=true&theme=radical" />
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanajkhan&theme=radical" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanajkhan&theme=radical" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanajkhan&theme=react-dark" />
-</p>
-
----
-
-⭐️ From Shahanaj Khan | Keep Coding 🚀
-
-
