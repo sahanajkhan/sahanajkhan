@@ -23,15 +23,9 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-
 <a href="https://www.codechef.com/users/eager_sun_10" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
 </a>
-
 
 <a href="https://leetcode.com/u/sk051223/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
@@ -44,7 +38,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,python,java,html,css,git,github,tailwind,ts,docker,postgresql,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,python,html,css,git,github,tailwind,ts,docker,postgresql,figma" />
 </p>
 
 ---
