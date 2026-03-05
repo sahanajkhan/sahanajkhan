@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year CSE Student | Full Stack Developer | DSA & AI Enthusiast 🚀</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sahanajkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sahanajkhan" />
+  <img src="" alt="sahanajkhan" />
 </p>
 
 <img align="right" height="300" width="400" alt="GIF" src="codingg.gif">
