@@ -5,7 +5,7 @@
   <img src="mio-akiyama-computer.gif"  alt="sahanajkhan" />
 </p> -->
 
-<img align="right" height="300" width="400" alt="GIF" src="mio-akiyama-computer.gif"> 
+<img align="right" height="300" width="300" alt="GIF" src="mio-akiyama-computer.gif"> 
 
 - 🌱 I’m currently learning **Problem Solving & DSA in C++.**
 - 👯 I’m looking to collaborate on **Open Source Projects.**
